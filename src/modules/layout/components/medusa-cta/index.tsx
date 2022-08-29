@@ -2,8 +2,14 @@ const MedusaCTA = () => {
   return (
     <div className="py-4 flex justify-center items-center w-full">
       <div className="content-container flex justify-center flex-1">
-        <a href="https://www.medusajs.com" target="_blank" rel="noreferrer">
-          <PoweredBy />
+        <a
+          href="https://www.kiranacommerce.com"
+          target="_blank"
+          rel="noreferrer"
+          style={{ color: "#9CA3AF" }}
+          className="text-xs	"
+        >
+          powered by kirana commerce
         </a>
       </div>
     </div>
